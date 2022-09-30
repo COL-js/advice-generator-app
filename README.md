@@ -9,7 +9,7 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 ### Links
 
-[Link to Live site URL](https://your-live-site-url.com)
+[Link to Live site URL](https://col-js-advice-generator-app.netlify.app/)
 
 ### Built with
 
